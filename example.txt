@@ -1,2 +1,4 @@
 HelloHelloHello
 hellohellohello
+This is another line! Please merge this to be at the end of the file, if it isn't already! 
+
